@@ -1,0 +1,15 @@
+C:\Geek brains\HomeWork_CSharp\HomeWork1\number2\bin\Debug\net6.0\number2.exe
+C:\Geek brains\HomeWork_CSharp\HomeWork1\number2\bin\Debug\net6.0\number2.deps.json
+C:\Geek brains\HomeWork_CSharp\HomeWork1\number2\bin\Debug\net6.0\number2.runtimeconfig.json
+C:\Geek brains\HomeWork_CSharp\HomeWork1\number2\bin\Debug\net6.0\number2.dll
+C:\Geek brains\HomeWork_CSharp\HomeWork1\number2\bin\Debug\net6.0\number2.pdb
+C:\Geek brains\HomeWork_CSharp\HomeWork1\number2\obj\Debug\net6.0\number2.csproj.AssemblyReference.cache
+C:\Geek brains\HomeWork_CSharp\HomeWork1\number2\obj\Debug\net6.0\number2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Geek brains\HomeWork_CSharp\HomeWork1\number2\obj\Debug\net6.0\number2.AssemblyInfoInputs.cache
+C:\Geek brains\HomeWork_CSharp\HomeWork1\number2\obj\Debug\net6.0\number2.AssemblyInfo.cs
+C:\Geek brains\HomeWork_CSharp\HomeWork1\number2\obj\Debug\net6.0\number2.csproj.CoreCompileInputs.cache
+C:\Geek brains\HomeWork_CSharp\HomeWork1\number2\obj\Debug\net6.0\number2.dll
+C:\Geek brains\HomeWork_CSharp\HomeWork1\number2\obj\Debug\net6.0\refint\number2.dll
+C:\Geek brains\HomeWork_CSharp\HomeWork1\number2\obj\Debug\net6.0\number2.pdb
+C:\Geek brains\HomeWork_CSharp\HomeWork1\number2\obj\Debug\net6.0\number2.genruntimeconfig.cache
+C:\Geek brains\HomeWork_CSharp\HomeWork1\number2\obj\Debug\net6.0\ref\number2.dll
